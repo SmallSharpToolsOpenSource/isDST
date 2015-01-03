@@ -1,0 +1,17 @@
+{
+  "name": "isDST",
+  "version": "0.0.1",
+  "description": "Daylight Savings Time",
+  "main": "dst.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "dst, daylight savings time"
+  ],
+  "author": "Brennan Stehling",
+  "license": "MIT",
+  "dependencies": {
+    "tap": "^0.4.13"
+  }
+}
