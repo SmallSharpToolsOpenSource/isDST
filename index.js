@@ -1,5 +1,7 @@
 
-// DST is observed in certain regions of this time zone between the 2nd Sunday in March and the 1st Sunday in November.
+// DST is observed in certain regions of this time zone between the 2nd Sunday
+// in March and the 1st Sunday in November.
+// Wikipedia: https://en.wikipedia.org/wiki/Central_Time_Zone
 
 function isDST(date){
     var year = date.getFullYear();

@@ -1,8 +1,8 @@
 {
-  "name": "isDST",
-  "version": "0.0.1",
+  "name": "isdst",
+  "version": "1.0.0",
   "description": "Daylight Savings Time",
-  "main": "dst.js",
+  "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
